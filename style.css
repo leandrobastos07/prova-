@@ -1,0 +1,17 @@
+body{
+   background-color: rgb(96, 94, 184);
+}
+
+
+ h1{
+    font-family: fantasy;
+    color: blue;
+    font-size: 150px;
+
+ }
+   
+ .caixa{
+   position: relative;
+   width: 600px;
+  margin: 0 auto;
+ }
